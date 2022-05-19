@@ -1,7 +1,7 @@
-This project is made of background images that expand when clicked on. 
+This project isa feedback survery design. Users are given 3 options in a "customer support" feedback. the USer can then select their option and once submitted the USer is given a Thank you message confirming their selection
 
 It uses Flexbox, CSS transitions and JavaScript
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- Feedback option for any service provided
